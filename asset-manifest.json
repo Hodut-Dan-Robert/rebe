@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rebe/static/css/main.4943f35d.css",
+    "main.js": "/rebe/static/js/main.e6d529f2.js",
+    "static/media/image2.png": "/rebe/static/media/image2.b7dd622e73820d055424.png",
+    "static/media/image1.png": "/rebe/static/media/image1.34a07971f9817cfebd69.png",
+    "static/media/img8.jpg": "/rebe/static/media/img8.6cb1e3eb67600f242d4a.jpg",
+    "static/media/img5.jpg": "/rebe/static/media/img5.8696fb3f526c87c24515.jpg",
+    "static/media/img6.jpg": "/rebe/static/media/img6.cfbadfda85a51288ea8c.jpg",
+    "static/media/1.jpg": "/rebe/static/media/1.bbca17222591ef962b41.jpg",
+    "static/media/img7.jpg": "/rebe/static/media/img7.f376708ed5d64c95ab2b.jpg",
+    "static/media/img4.jpg": "/rebe/static/media/img4.510cfbcc6ea05eaa58fd.jpg",
+    "static/media/img3.jpg": "/rebe/static/media/img3.891f41a9801cf19c6cdf.jpg",
+    "static/media/img2.jpg": "/rebe/static/media/img2.65c60e77a0430c65e00d.jpg",
+    "static/media/img1.jpg": "/rebe/static/media/img1.6e8b704a61bae7274dae.jpg",
+    "index.html": "/rebe/index.html",
+    "main.4943f35d.css.map": "/rebe/static/css/main.4943f35d.css.map",
+    "main.e6d529f2.js.map": "/rebe/static/js/main.e6d529f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4943f35d.css",
+    "static/js/main.e6d529f2.js"
+  ]
+}
